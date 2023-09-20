@@ -1,0 +1,7 @@
+D:\thietkeweb\THUCHANH2\THUCHANH2\obj\Debug\net7.0\THUCHANH2.GeneratedMSBuildEditorConfig.editorconfig
+D:\thietkeweb\THUCHANH2\THUCHANH2\obj\Debug\net7.0\THUCHANH2.AssemblyInfoInputs.cache
+D:\thietkeweb\THUCHANH2\THUCHANH2\obj\Debug\net7.0\THUCHANH2.AssemblyInfo.cs
+D:\thietkeweb\THUCHANH2\THUCHANH2\obj\Debug\net7.0\THUCHANH2.csproj.CoreCompileInputs.cache
+D:\thietkeweb\THUCHANH2\THUCHANH2\obj\Debug\net7.0\THUCHANH2.MvcApplicationPartsAssemblyInfo.cache
+D:\thietkeweb\THUCHANH2\THUCHANH2\obj\Debug\net7.0\THUCHANH2.RazorAssemblyInfo.cache
+D:\thietkeweb\THUCHANH2\THUCHANH2\obj\Debug\net7.0\THUCHANH2.RazorAssemblyInfo.cs
